@@ -1,7 +1,7 @@
-#RBAC Message Forum ![Version](https://img.shields.io/badge/release-v0.0.1-blue.svg)![npm](https://img.shields.io/badge/npm-v4.1.2-brightgreen.svg)![DB](https://img.shields.io/badge/mongodb-v3.4.2-green.svg)
+# RBAC Message Forum ![Version](https://img.shields.io/badge/release-v0.0.1-blue.svg)![npm](https://img.shields.io/badge/npm-v4.1.2-brightgreen.svg)![DB](https://img.shields.io/badge/mongodb-v3.4.2-green.svg)
 
 
-###Introduction:
+### Introduction:
 This is a self-instructed project to deploy a mean stack message platform engaging the RBAC access control strategy.
 
 + **What is MEAN**
@@ -20,7 +20,7 @@ The term MEAN stack refers to a collection of JavaScript based technologies used
 + **Mind Map**
 ![Mindmap](./pics/mind_map.png)
 
-####How to use:
+#### How to use:
 >- Download the entire folder.      
 - Run "**npm install**" to install all required dependencies.
 - Run "**npm run build**" to run the development build script => Keep this process running! 
