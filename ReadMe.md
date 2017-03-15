@@ -29,7 +29,8 @@ The term MEAN stack refers to a collection of JavaScript based technologies used
 >**Note**: Remember to install two other dependencies(bcryptjs & jsonwebtoken) using "**npm install —save**" 
 
 **Ps**: I've already deploy this on Amazon AWS, you view it through.[Kevin Zhou's Message Platform](http://mean-stack-deployment.us-east-1.elasticbeanstalk.com)
-##**Demo**
+<hr>
+## **Demo**
 ![](./pics/demo.png)
        
   
